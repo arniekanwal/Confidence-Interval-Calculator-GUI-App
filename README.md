@@ -10,5 +10,8 @@ This calculator can handle the comparison of means or proportions with the follo
 After selecting the following case for computing the confidence interval, the calculator will allow you to input
 your data then displays relevant statistics, along with a normal graph that visualizes the interval you computed.
 
+# Note #
+Before running the program, you will need to change the file path for "normal.png" such that it updates in the calculator.
+
 
 
